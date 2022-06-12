@@ -70,7 +70,7 @@ public class TextBook{
         return authorName;
     }
     public double getPrice(){
-        return price = (price*discountRate)/100;
+        return price = price - (price*discountRate)/100;
     }
     public int getAvailableQuantity(){
         return availableQuantity;
