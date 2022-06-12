@@ -72,7 +72,7 @@ public class Start{
         System.out.println("Author Name                           : "+t2.getAuthorName());
         System.out.println("Price including discount              : "+t2.getPrice()+" Taka");
         System.out.println("Available Quantity                    : "+t2.getAvailableQuantity());
-        System.out.println("Category                              : "+t2.getStandard());
+        System.out.println("Standard                              : "+t2.getStandard());
 
     }
 }
