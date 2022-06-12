@@ -95,7 +95,7 @@ public class TextBook{
         System.out.println("Author Name                           : "+authorName);
         System.out.println("Price                                 : "+price+" Taka");
         System.out.println("Available Quantity                    : "+availableQuantity);
-        System.out.println("Category                              : "+standard);
+        System.out.println("Standard                              : "+standard);
         System.out.println("Discount Rate                         : "+discountRate);
     }
 }
