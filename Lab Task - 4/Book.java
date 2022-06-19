@@ -69,7 +69,7 @@ public class Book {
         availableQuantity = availableQuantity - amount;
     }
 
-    //showing details of StoryBook
+    //showing details of Book
     public void showDetails(){
         System.out.println("\nShowing Details for StoryBook");
         System.out.println("ISBN                                   : "+isbn);
